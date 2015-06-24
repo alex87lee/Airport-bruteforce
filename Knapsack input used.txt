@@ -1,0 +1,15 @@
+inputs used 
+
+10 items
+22 max weight
+
+clothing - 10.6
+laptop - 8.7
+papers - 2
+pen - 8.6
+food - 6.5
+toothbrush - 1.6
+charger - 3.8
+books - 6.1
+camara - 5.2
+plastic bag - 0.6
