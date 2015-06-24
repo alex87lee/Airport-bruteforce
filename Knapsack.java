@@ -1,8 +1,6 @@
 /*
- * CSCI 323 project 1 - Knapsack
+ * Knapsack
  * Lee, Juhyun
- * Dec - 06 - 2013
- * mon,wed 5:00 ~ 6:15 PM
  * 
  */
 import java.io.BufferedReader;
